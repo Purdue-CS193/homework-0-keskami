@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+# Kestan's First CS193 Homework
 
-HI!
+My favorite things about CS193:
+- Getting better acquainted with Github
+- Some of my friends are in this class
+- Cool TAs
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
